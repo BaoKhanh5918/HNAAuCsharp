@@ -1,0 +1,14 @@
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.AssemblyInfoInputs.cache
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.AssemblyInfo.cs
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.csproj.CoreCompileInputs.cache
+C:\baitap01\baitap01\bin\Debug\net10.0\baitap01.exe
+C:\baitap01\baitap01\bin\Debug\net10.0\baitap01.deps.json
+C:\baitap01\baitap01\bin\Debug\net10.0\baitap01.runtimeconfig.json
+C:\baitap01\baitap01\bin\Debug\net10.0\baitap01.dll
+C:\baitap01\baitap01\bin\Debug\net10.0\baitap01.pdb
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.dll
+C:\baitap01\baitap01\obj\Debug\net10.0\refint\baitap01.dll
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.pdb
+C:\baitap01\baitap01\obj\Debug\net10.0\baitap01.genruntimeconfig.cache
+C:\baitap01\baitap01\obj\Debug\net10.0\ref\baitap01.dll
