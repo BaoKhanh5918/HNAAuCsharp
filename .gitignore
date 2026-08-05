@@ -19,3 +19,4 @@ packages/
 
 # Logs
 *.log
+*.cache
