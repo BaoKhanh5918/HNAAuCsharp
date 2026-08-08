@@ -1,0 +1,14 @@
+C:\baitap9\baitap9\bin\Debug\net10.0\baitap9.exe
+C:\baitap9\baitap9\bin\Debug\net10.0\baitap9.deps.json
+C:\baitap9\baitap9\bin\Debug\net10.0\baitap9.runtimeconfig.json
+C:\baitap9\baitap9\bin\Debug\net10.0\baitap9.dll
+C:\baitap9\baitap9\bin\Debug\net10.0\baitap9.pdb
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.AssemblyInfoInputs.cache
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.AssemblyInfo.cs
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.csproj.CoreCompileInputs.cache
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.dll
+C:\baitap9\baitap9\obj\Debug\net10.0\refint\baitap9.dll
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.pdb
+C:\baitap9\baitap9\obj\Debug\net10.0\baitap9.genruntimeconfig.cache
+C:\baitap9\baitap9\obj\Debug\net10.0\ref\baitap9.dll

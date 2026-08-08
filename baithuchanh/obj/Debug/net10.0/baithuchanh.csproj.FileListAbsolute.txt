@@ -1,0 +1,14 @@
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.AssemblyInfoInputs.cache
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.AssemblyInfo.cs
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.csproj.CoreCompileInputs.cache
+C:\baithuchanh\baithuchanh\bin\Debug\net10.0\baithuchanh.exe
+C:\baithuchanh\baithuchanh\bin\Debug\net10.0\baithuchanh.deps.json
+C:\baithuchanh\baithuchanh\bin\Debug\net10.0\baithuchanh.runtimeconfig.json
+C:\baithuchanh\baithuchanh\bin\Debug\net10.0\baithuchanh.dll
+C:\baithuchanh\baithuchanh\bin\Debug\net10.0\baithuchanh.pdb
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.dll
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\refint\baithuchanh.dll
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.pdb
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\baithuchanh.genruntimeconfig.cache
+C:\baithuchanh\baithuchanh\obj\Debug\net10.0\ref\baithuchanh.dll
